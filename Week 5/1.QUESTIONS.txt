@@ -1,0 +1,15 @@
+PROBLEMS --- WEEK5
+
+1# Write a C++ program to enter elements in the array and display the array elements.
+2# Write a C++ program to find the sum of the all-array element.
+3# Write a C++ program to find the length of the array.
+4# Write a C++ program to find the second-largest integer in a list of integers.
+5# Write a C++ Program to reverse the position of the array element (Hint: First eminent to
+the last element.)
+6# Write a C++ program to perform the following:
+a. Addition of two matrices
+b. Multiplication of two matrices
+7# Write a C++ program to count and display positive, negative, odd and even numbers in
+an array.
+8# Write a C++ program to merge two sorted arrays into another array in sorted order.
+9# Write a C++ program to find the frequency of a particular number in a list of integers.
