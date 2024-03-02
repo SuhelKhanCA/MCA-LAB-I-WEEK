@@ -13,7 +13,7 @@ public:
 };
 
 int main() {
-    MyClass obj(42);
+    MyClass obj(50);
 
     MyClass& ref = obj.getThis();
 

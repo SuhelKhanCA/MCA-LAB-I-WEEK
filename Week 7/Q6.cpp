@@ -27,7 +27,7 @@ public:
 };
 
 int main() {
-    Flight flight1(101, "Nathpuram", "Mahipalpur", 350.0);
+    Flight flight1(101, "New Delhi", "Kolkata", 550.0);
 
     cout << "Flight Information:" << endl;
     flight1.displayFlightInfo();

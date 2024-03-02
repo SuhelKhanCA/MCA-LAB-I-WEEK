@@ -23,8 +23,8 @@ int main() {
     pntr_obj obj1, obj2, obj3;
 
     obj1.set_data(101, "Ali");
-    obj2.set_data(102, "Mohd");
-    obj3.set_data(103, "Khalid");
+    obj2.set_data(102, "Bablu");
+    obj3.set_data(103, "Chanchal");
 
     obj1.print();
     obj2.print();
